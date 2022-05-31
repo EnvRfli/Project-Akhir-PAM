@@ -3,13 +3,10 @@
  
  Aplikasi yang dirancang ini akan menampilkan List Anime berdasarkan Genre, Top Anime, dan Anime berdasarkan hasil pencarian Users.
  
- ![](https://github.com/EnvRfli/Project-Akhir-PAM/blob/main/2c23e5a4-c09c-4b29-880a-c2f3e3077c4e.jpg width="200" height="400")
- ![](https://github.com/EnvRfli/Project-Akhir-PAM/blob/main/2c23e5a4-c09c-4b29-880a-c2f3e3077c4e.jpg width="200" height="400")
- ![](https://github.com/EnvRfli/Project-Akhir-PAM/blob/main/2c23e5a4-c09c-4b29-880a-c2f3e3077c4e.jpg width="200" height="400")
+ Api Link           : https://docs.api.jikan.moe/
  
- 
- Api Link          : https://docs.api.jikan.moe/
- 
- Apk Download Link : https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40envious/projectuas-0483a7bfd32c4deea0aa788d75025c91-signed.apk
+ Apk Download Link  : https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40envious/projectuas-0483a7bfd32c4deea0aa788d75025c91-signed.apk
                      (expired in 30-06-2022)
+
+ Apk Download Drive : 
 
