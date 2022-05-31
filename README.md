@@ -3,7 +3,7 @@
  
  Aplikasi yang dirancang ini akan menampilkan List Anime berdasarkan Genre, Top Anime, dan Anime berdasarkan hasil pencarian Users.
  
- ![screenshot
+ ![screenshot](https://github.com/EnvRfli/Project-Akhir-PAM/blob/main/2c23e5a4-c09c-4b29-880a-c2f3e3077c4e.jpg)
  
  Api Link          : https://docs.api.jikan.moe/
  
